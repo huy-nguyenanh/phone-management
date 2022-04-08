@@ -1,0 +1,8 @@
+iphone 12,Apple A14 Bionic,64.0,12.0,6.1,RED,Apple,21000000
+iphone 12 ProMax,Apple A14 Bionic,128.0,12.0,6.7,BROWN,Apple,30000000
+galaxy S21,Exynos 2100,8.0,64.0,6.2,Black,SamSung,20000000
+galaxy Z Fold2,Snapdragon 865+,256.0,12.0,7.6,White,SamSung,50000000
+phone 12,Apple A14 Bionic,64.0,12.0,6.1,RED,Apple,21000000
+phone 13,Apple A14 Bionic,64.0,12.0,6.1,RED,Apple,21000000
+phone 14,Apple A14 Bionic,64.0,12.0,6.1,RED,Apple,21000000
+phone 15,Apple A14 Bionic,64.0,12.0,6.1,RED,Apple,21000000
